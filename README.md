@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benik-Karapetyan
-- 👀 I’m interested in Vue.js, Node.js
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in React.js, Vue.js, Node.js, Golang
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me benik.karapetyan1@gmail.com
 
